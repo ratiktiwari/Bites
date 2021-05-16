@@ -67,12 +67,12 @@
             <Button
                 android:id="@+id/btnAddToCart"
                 android:layout_width="wrap_content"
-                android:layout_height="28dp"
+                android:layout_height="30dp"
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="8dp"
                 android:background="#e53935"
                 android:gravity="center"
-                android:padding="4dp"
+                android:padding="0dp"
                 android:text="@string/add_to_cart_btn"
                 android:textColor="@color/white"
                 android:textSize="15sp" />
